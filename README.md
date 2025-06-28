@@ -24,6 +24,13 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
+## Branches (To be Confirmed)
+1. Branches are named after chapters. 
+2. The branch CH02After contains all code built during chapter 2. 
+3. This course helps build code incrementally, often starting with the code written in the previous chapter(s). The branch named CH02After is effectively the same as "CH03Before" even though there is no branch named CH03Before. So CH03After is the same as "CH04Before" and so on.
+4. You can start with main, which contains code at the beginning of the course and build code incrementally. Or start with a specific branch to get all code built in that chapter.
+5. Chapter 1 has no coding lessons.
+
 ## Installing
 1. To use these exercise files, you must have the following installed:
 	- [list of requirements for course]
