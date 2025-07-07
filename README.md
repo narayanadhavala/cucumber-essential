@@ -1,9 +1,11 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# Cucumber Essential Training
+This is the repository for the LinkedIn Learning course `Cucumber Essential Training`. The full course is available from [LinkedIn Learning][lil-course-url].
 
 ![lil-thumbnail-url]
 
 ## Course Description
+
+Cucumber is a tool for behavior-driven development (BDD), which allows you to write assertions in plain language that are then testable by code. By making written requirements actually testable, Cucumber provides a common language for business and engineering professionals. In this course, learn how to use Cucumber to implement agile practices like BDD, test-driven development (TDD), and acceptance test-driven development (ATDD). Instructor Shashi Shekhar goes over the basics of BDD, TDD, and ATDD, and then dives into the essentials of the Cucumber workflow. Along the way, gather tips on how to map user stories to features, add hooks, generate reports, and apply techniques to make BDD maintainable.
 
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
@@ -35,17 +37,12 @@ To resolve this issue:
 4. You can start with main, which contains code at the beginning of the course and build code incrementally. Or start with a specific branch to get all code built in that chapter.
 5. Chapter 1 has no coding lessons.
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
 
 ## Instructor
 
-Instructor name
+Shashi Shekhar
 
-Instructor description
+Enterprise Architect
 
                             
 
@@ -54,6 +51,6 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG0eDHsyOSqTA/learning-public-crop_675_1200/B4EZVdqqdwHUAY-/0/1741033220778?e=2147483647&v=beta&t=FxUDo6FA8W8CiFROwqfZKL_mzQhYx9loYLfjN-LNjgA
+[lil-course-url]: https://www.linkedin.com/learning/cucumber-essential-training-26244361
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQHsGYSNUrrAQA/learning-public-crop_675_1200/B4EZd_ckKDHcAc-/0/1750189884322?e=2147483647&v=beta&t=GCnxd5sCmNZA6ItrpqgIzGkj3QmARDGBl04zguLTT90
 
